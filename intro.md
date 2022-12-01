@@ -1,5 +1,5 @@
 # Introduction
-## Who this book is for
+## Who This Book Is For
 This book has a few target audiences with different sections being most relevant for each.
 
 ### Test Automation Engineers
@@ -19,3 +19,9 @@ The philosophy discussions should be particularly relevant to this group, of cou
 It is critical that those in management are clear about the goals and purpose of
 automated testing, since that will drive hiring decisions, performance evaluations,
 etc.
+
+## How To Use This Book
+TODO
+
+## Acknowledgements
+TODO
